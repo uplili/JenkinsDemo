@@ -1,0 +1,14 @@
+c:\users\032480_019020\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+c:\users\032480_019020\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\032480_019020\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\032480_019020\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\032480_019020\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+c:\users\032480_019020\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+c:\users\032480_019020\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\032480_019020\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+c:\users\032480_019020\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+c:\users\032480_019020\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+E:\testGit\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+E:\testGit\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+E:\testGit\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+E:\testGit\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
